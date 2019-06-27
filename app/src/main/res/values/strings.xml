@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SodukuGame</string>
+    <string name="pause_game">暂停游戏</string>
+    <string name="resume_game">恢复游戏</string>
+    <string name="restart_game">重新开始</string>
+    <string name="music_setting">音效设置</string>
+    <string name="change_model">模式切换</string>
+    <string name="prompt">提示</string>
+    <string name="music_open_or_close">音效打开或关闭?</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    
+    <string name="can_not_fill_number">这里不能填数据!!!</string>
+    <string name="input_number_illegal">输入数据不合法!!!</string>
+</resources>
